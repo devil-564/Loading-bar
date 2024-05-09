@@ -1,0 +1,12 @@
+.progress {
+  margin: auto;
+  max-width: 70%;
+  min-height: 5vw;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5vw;
+  position: relative;
+  overflow: hidden;
+}
